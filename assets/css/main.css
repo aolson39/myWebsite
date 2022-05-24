@@ -247,6 +247,10 @@ input, select, textarea {
 		border-radius: 5%;
 	}
 
+	.submit-buttons{
+		margin-left: 1%;
+	}
+
 /* Container */
 
 	.container {
