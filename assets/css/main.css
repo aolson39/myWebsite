@@ -247,10 +247,6 @@ input, select, textarea {
 		border-radius: 5%;
 	}
 
-	.submit-buttons{
-		margin-left: 1%;
-	}
-
 /* Container */
 
 	.container {
@@ -2072,8 +2068,13 @@ input, select, textarea {
 
 /* Form */
 
+/* Added by AdamO */
 	form {
 		margin: 0 0 2em 0;
+		margin: 0 0 2em 0;
+		padding-left: 15%;
+		padding-right: 15%;
+		padding-bottom: 2em;
 	}
 
 	label {
